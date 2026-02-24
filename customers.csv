@@ -1,0 +1,51 @@
+CustomerID,Name,Product,PurchaseMethod,Place,State,Discount
+C001,Rahul Sharma,Laptop,Cash,Mall,Maharashtra,5
+C002,Priya Patel,Mobile,Card,Online,Gujarat,10
+C003,Amit Singh,Shirt,Cash,Store,Madhya Pradesh,0
+C004,Neha Verma,Shoes,UPI,Online,Rajasthan,15
+C005,Vikram Gupta,TV,Card,Mall,Uttar Pradesh,8
+C006,Sneha Rao,Jeans,Cash,Store,Karnataka,12
+C007,Karan Mehta,Mobile,UPI,Online,Maharashtra,20
+C008,Anita Desai,Laptop,Card,Mall,Gujarat,3
+C009,Rohit Yadav,Watch,Cash,Store,Madhya Pradesh,7
+C010,Divya Joshi,Perfume,UPI,Online,Rajasthan,18
+C011,Sunil Kumar,Headphones,Cash,Mall,Uttar Pradesh,0
+C012,Meera Reddy,Book,Card,Online,Telangana,5
+C013,Arjun Bose,Speakers,UPI,Store,West Bengal,10
+C014,Kavya Nair,Laptop,Cash,Mall,Kerala,14
+C015,Manish Tiwari,Mobile,Card,Online,Uttar Pradesh,9
+C016,Pooja Agarwal,Handbag,UPI,Store,Maharashtra,22
+C017,Ravi Patel,Tablet,Cash,Mall,Gujarat,6
+C018,Shalini Gupta,Shoes,Card,Online,Madhya Pradesh,11
+C19,Nikhil Singh,Watch,UPI,Store,Rajasthan,4
+C020,Lata Mishra,Laptop,Cash,Mall,Uttar Pradesh,16
+C021,Deepak Roy,TV,Card,Online,Bihar,2
+C022,Radha Iyer,Jeans,UPI,Store,Tamil Nadu,13
+C023,Suresh Babu,Mobile,Cash,Mall,Karnataka,19
+C024,Indira Menon,Perfume,Card,Online,Kerala,1
+C025,Akash Jain,Headphones,UPI,Store,Madhya Pradesh,8
+C026,Tara Singh,Book,Cash,Mall,Punjab,17
+C027,Vijay Reddy,Laptop,Card,Online,Telangana,0
+C028,Anjali Das,Speakers,UPI,Store,Odisha,12
+C029,Rajesh Kumar,Mobile,Cash,Mall,Haryana,7
+C030,Sita Devi,Shirt,Card,Online,Uttar Pradesh,15
+C031,Mohan Lal,Watch,UPI,Store,Rajasthan,3
+C032,Kamala Nair,Handbag,Cash,Mall,Kerala,20
+C033,Prakash Shah,Tablet,Card,Online,Gujarat,9
+C034,Geeta Verma,Jeans,UPI,Store,Madhya Pradesh,6
+C035,Harish Patel,Laptop,Cash,Mall,Maharashtra,14
+C036,Namrata Joshi,Mobile,Card,Online,Uttar Pradesh,11
+C037,Sanjay Gupta,TV,UPI,Store,Rajasthan,18
+C038,Leela Rao,Perfume,Cash,Mall,Karnataka,4
+C039,Abhay Singh,Headphones,Card,Online,Madhya Pradesh,10
+C040,Rekha Yadav,Book,UPI,Store,Gujarat,2
+C041,Gopal Mishra,Speakers,Cash,Mall,Uttar Pradesh,16
+C042,Shobha Bose,Shoes,Card,Online,West Bengal,7
+C043,Ramesh Nair,Watch,UPI,Store,Kerala,13
+C044,Usha Tiwari,Laptop,Cash,Mall,Maharashtra,1
+C045,Devendra Patel,Mobile,Card,Online,Gujarat,19
+C046,Manisha Agarwal,Handbag,UPI,Store,Madhya Pradesh,5
+C047,Kishore Reddy,Tablet,Cash,Mall,Telangana,12
+C048,Padma Gupta,Jeans,Card,Online,Uttar Pradesh,8
+C049,Siddharth Roy,TV,UPI,Store,Bihar,17
+C050,Anita Desai,Perfume,Cash,Mall,Maharashtra,0
